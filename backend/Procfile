@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT dzemal_humic_4142.wsgi:application

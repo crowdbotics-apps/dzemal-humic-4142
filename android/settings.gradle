@@ -1,0 +1,3 @@
+rootProject.name = 'dzemal_humic_4142'
+
+include ':app'
